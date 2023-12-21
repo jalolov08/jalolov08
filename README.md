@@ -1,4 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sarvar Jalolov======================================================================================================================================Full Stack Develover--------------------Hello! I'm \[Sarvar\], a full-stack developer with a deep passion for creating innovative and efficient web applications. Since I embarked on my journey in the world of programming, I have ardently studied technologies and strive to leverage my knowledge to tackle complex challenges and develop high-quality software._ 🌍  I'm based in Istaravshan_ ✉️  You can contact me at [jalolov.08@mail.ru](mailto:jalolov.08@mail.ru)\* 🧠  I'm learning Go
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sarvar Jalolov
+======================================================================================================================================
+
+Full Stack Develover
+--------------------
+Hello! I'm \[Sarvar\], a full-stack developer with a deep passion for creating innovative and efficient web applications. Since I embarked on my journey in the world of programming, I have ardently studied technologies and strive to leverage my knowledge to tackle complex challenges and develop high-quality software._ 🌍  I'm based in Istaravshan_ ✉️  You can contact me at [jalolov.08@mail.ru](mailto:jalolov.08@mail.ru)\* 🧠  I'm learning Go
 
 ### Skills
 
